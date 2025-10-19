@@ -10,6 +10,18 @@
 
 # Screenshots
 
+### Game menu
+![menu](https://github.com/phpc99/pfl-project2/blob/main/menu.png)
+
+### Initial state
+![init](https://github.com/phpc99/pfl-project2/blob/main/initialstate.png)
+
+### Mid state
+![mid](https://github.com/phpc99/pfl-project2/blob/main/midstate.png)
+
+### End state
+![end](https://github.com/phpc99/pfl-project2/blob/main/endstate.png)
+
 # Authors
 
 - Nuno Simão Nunes Rios, up202206272@up.pt
