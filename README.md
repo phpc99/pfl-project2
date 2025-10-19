@@ -8,6 +8,8 @@
 - Managed game state updates and board rendering dynamically within a text-based interface;
 - Ensured proper input validation and turn-based gameplay with clear feedback for each move.
 
+# Screenshots
+
 # Authors
 
 - Nuno Simão Nunes Rios, up202206272@up.pt
